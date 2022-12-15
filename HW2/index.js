@@ -108,15 +108,15 @@
 //     console.log('Доброї ночі');  
 // }
 
-// if (timeNow >= 5  && timeNow <= 10){
+// else if (timeNow >= 5  && timeNow <= 10){
 //     console.log('Доброго ранку');  
 // }
 
-// if (timeNow >= 11 && timeNow <= 16){
+// else if (timeNow >= 11 && timeNow <= 16){
 //     console.log('Доброго дня');  
 // }
 
-// if (timeNow >= 17 && timeNow <= 22){
+// else if (timeNow >= 17 && timeNow <= 22){
 //     console.log('Доброго вечора');  
 // }
 
